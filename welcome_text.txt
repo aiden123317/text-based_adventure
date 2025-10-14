@@ -1,0 +1,4 @@
+Welcome user to the demo text based adventure! In this demo you will be able to pick between 2 or more branches in
+the story. In order to make a choice, choose 1 if it's listed as 1, 2 if listed as 2 and so on.
+Think carefully about the path you choose to walk because some will end in riches, while others in ruin.
+Good luck!
