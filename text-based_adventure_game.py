@@ -55,6 +55,8 @@ def main():
                 parser.dprint("Ending 1", pause = 0.008)
             else:
                 parser.dprint("Ending 2", pause = 0.008)
+        else:
+            parser.dprint("Clearing", pause = 0.008
     elif c1 == "2":
         parser.dprint("Nearby", pause = 0.008)
         c4 = input()
