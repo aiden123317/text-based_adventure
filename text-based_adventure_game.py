@@ -59,7 +59,7 @@ def main():
             parser.dprint("Clearing", pause = 0.008)
             c6 = input()
             if c6 == "1":
-                parser.dprint("Prayer", pause = 0.008)
+                parser.dprint("Ancient Prayer", pause = 0.008)
             else:
                 parser.dprint("Deeper", pause = 0.008)
     
@@ -87,6 +87,7 @@ def main():
 # This tells the program to start with the main function.
 if __name__ == "__main__":
     main()
+
 
 
 
